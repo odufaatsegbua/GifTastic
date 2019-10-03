@@ -13,10 +13,15 @@
 #subhead {
     color: white;
     font-size: 30px;
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Cousine', monospace;
     text-align: center;
 }
 
 body {
     background-image: url(../images/Weeknd_326x342.jpg);
+}
+
+.mainContainer {
+    background-color: black;
+    text-align: center;
 }
