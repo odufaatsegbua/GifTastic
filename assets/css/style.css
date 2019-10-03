@@ -1,0 +1,22 @@
+.headerDiv {
+    background-color: black;
+    padding: 35px;
+}
+
+#firstHeader {
+    color: white;
+    font-size: 45px;
+    font-family: 'Monoton', cursive;
+    text-align: center;
+}
+
+#subhead {
+    color: white;
+    font-size: 30px;
+    font-family: 'Sarala', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-image: url(../images/Weeknd_326x342.jpg);
+}
